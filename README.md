@@ -1,2 +1,2 @@
-# mykang0625.github.io
-Meiyan Kang's research homepage
+# meiyan-kang.github.io
+Miyan Kang's research homepage
